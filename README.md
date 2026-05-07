@@ -6,7 +6,6 @@
 ![GitHub license](https://img.shields.io/github/license/Sadiyagitx/aestura-autonomous-multi-agent-system)
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 ![AI](https://img.shields.io/badge/AI-Multi--Agent-blue)
-![GSSoC](https://img.shields.io/badge/GSSoC-ready-orange)
 
 ---
 
